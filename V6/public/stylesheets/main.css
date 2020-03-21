@@ -1,0 +1,13 @@
+.img-thumbnail img {
+    width: 100%;
+    
+}
+.img-thumbnail{
+    padding: 0;
+}
+.x{
+    padding: 9px;
+}
+.jumbotron{
+    margin-top:20px;
+}
