@@ -1,5 +1,5 @@
 # YelpCamp
-Yelpcamp is a campground rating app, where users can create their own campgrounds, view and comment on others campgrounds. This is a  project of Colt Steele's Web Developer Bootcamp course in udemy. 
+Yelpcamp is a campground rating app, where users can create their own campgrounds, view and comment on others campgrounds,it also has serch feature in which a user can search a campground via using campground name. This is a  project of Colt Steele's Web Developer Bootcamp course in udemy. 
 It uses the following technologies : Node.js, Express.js, Passport.js, jQuery and MongoDB.
 
 ## Initial Setup
