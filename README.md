@@ -89,7 +89,7 @@ Add links to navbar
 Show/hide auth links in navbar
 ## Refactor The Routes
 
-Use Express router to reoragnize all routes
+Use Express router to reorganize all routes
 ## Users + Comments
 
 Associate users and comments
